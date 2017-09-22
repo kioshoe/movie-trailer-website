@@ -2,7 +2,7 @@ import webbrowser
 
 
 # Function template for movie data entry
-class Movie():
+class Movie(object):
     def __init__(self, m_title, m_duration, m_plot, m_poster, youtube_trailer):
         self.title = m_title
         self.duration = m_duration
