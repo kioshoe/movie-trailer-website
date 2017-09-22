@@ -50,7 +50,7 @@ kubo = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/c/c4/Kubo_and_the_Two_Strings_poster.png",
     "https://www.youtube.com/watch?v=p4-6qJzeb3A")
 
-# Puts individual movie entries into an array
+# Puts individual movie entries into a list
 movies = [
     sausage_party,
     straight_outta_compton,
@@ -60,7 +60,7 @@ movies = [
     kubo
     ]
 
-# Sorts movie entries in the array alphabetically
+# Sorts movie entries in the list alphabetically
 movies.sort(key=lambda movie: movie.title)
 
 # Renders movie data into an interactive webpage
