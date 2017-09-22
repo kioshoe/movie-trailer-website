@@ -151,8 +151,8 @@ movie_tile_content = '''
         <img src="{poster_url}" width="220" height="342">
         <div class="movie-caption">
             <span class="align-middle">
-            <h4><b>{movie_title}</b></h4>
-            <h5><i>{movie_duration}</i></h5>
+            <h4><strong>{movie_title}</strong></h4>
+            <h5><em>{movie_duration}</em></h5>
             <h5>{movie_plot}</h5>
             </span>
         </div>
