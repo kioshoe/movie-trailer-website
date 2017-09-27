@@ -19,4 +19,4 @@ Python 2.x is required to execute this project.
 3. Change directory to the project directory and use the command
 `python entertainment_center.py`
 
-Your default browser should now launch a new tab desplaying the movie trailer website.
+Your default browser should now launch a new tab displaying the movie trailer website.
